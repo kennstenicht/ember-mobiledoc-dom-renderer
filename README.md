@@ -5,11 +5,10 @@ Provides:
 
   * Component `{{render-mobiledoc}}` for rendering mobiledoc in your ember app
   * (For advanced use) The ability to import the [`mobiledoc-dom-renderer`](https://github.com/bustlelabs/mobiledoc-dom-renderer) class
-  
+
 To learn more about mobiledoc see [mobiledoc-kit](https://github.com/bustlelabs/mobiledoc-kit).
 
 ## Installation
-
 * `ember install ember-mobiledoc-dom-renderer`
 
 ## Requirements
